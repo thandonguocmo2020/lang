@@ -1,0 +1,12 @@
+{
+    "name": "hoang/langue",
+    "description": "ngon ngu tieng viet laravel",
+    "authors": [
+        {
+            "name": "hoang hiep",
+            "email": "hoanghiep1x0@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
